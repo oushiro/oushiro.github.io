@@ -1,0 +1,11 @@
+DataMining: 
+https://theamericangenius.com/tech-news/top-10-companies-mine-sell-data/
+
+R: https://cran.r-project.org/
+
+RStudio: https://www.rstudio.com/
+
+silac
+http://ipa.typeit.org/full/
+
+Praat: http://www.fon.hum.uva.nl/praat/
