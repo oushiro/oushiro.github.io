@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Livia Oushiro</title>
+    <link>/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Livia Oushiro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Livia Oushiro 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/talk/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Dialect contact and acquisition: migrants in São Paulo</title>
+      <link>/talk/stock1/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
+      
+      <guid>/talk/stock1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introdução ao R para Linguistas</title>
+      <link>/talk/ufmg/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
+      
+      <guid>/talk/ufmg/</guid>
+      <description>&lt;p&gt;Incluir materiais aqui&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New technologies in linguistic studies</title>
+      <link>/talk/stock2/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
+      
+      <guid>/talk/stock2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
