@@ -5,6 +5,18 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/pt/talk/museu/" hreflang="pt"/>
+      <xhtml:link rel="alternate" href="/talk/museu/" hreflang="en"/>
+    
+      <loc>/pt/talk/museu/</loc>
+      <lastmod>2017-01-01T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/pt/talk/stock1/" hreflang="pt"/>
       <xhtml:link rel="alternate" href="/talk/stock1/" hreflang="en"/>
     
@@ -33,6 +45,18 @@
       <xhtml:link rel="alternate" href="/talk/stock2/" hreflang="en"/>
     
       <loc>/pt/talk/stock2/</loc>
+      <lastmod>2017-01-01T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/pt/talk/nepo/" hreflang="pt"/>
+      <xhtml:link rel="alternate" href="/talk/nepo/" hreflang="en"/>
+    
+      <loc>/pt/talk/nepo/</loc>
       <lastmod>2017-01-01T00:00:00-02:00</lastmod>
     </url>
     
