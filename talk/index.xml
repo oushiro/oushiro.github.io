@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; Livia Oushiro 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0200</lastBuildDate>
-    <atom:link href="/talk/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>A fala de migrantes nordestinos em São Paulo: atitudes, identidade, mudança</title>
@@ -16,6 +18,15 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
       
       <guid>/talk/museu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contato dialetal no estado de São Paulo: a fala de migrantes alagoanos e paraibanos</title>
+      <link>/talk/gel18/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
+      
+      <guid>/talk/gel18/</guid>
       <description></description>
     </item>
     
@@ -29,11 +40,11 @@
     </item>
     
     <item>
-      <title>Introdução ao R para Linguistas</title>
-      <link>/talk/ufmg/</link>
+      <title>Introdução à Estatística para Linguistas</title>
+      <link>/talk/iel0279/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
       
-      <guid>/talk/ufmg/</guid>
+      <guid>/talk/iel0279/</guid>
       <description></description>
     </item>
     
@@ -43,8 +54,16 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
       
       <guid>/talk/stock2/</guid>
-      <description>&lt;p&gt;Click here to download the material for the workshop.&lt;/p&gt;
-</description>
+      <description>Click here to download the material for the workshop.</description>
+    </item>
+    
+    <item>
+      <title>Papel das variáveis Idade de Migração e Tempo de Residência para a aquisição dialetal</title>
+      <link>/talk/enanpoll18/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
+      
+      <guid>/talk/enanpoll18/</guid>
+      <description></description>
     </item>
     
     <item>
