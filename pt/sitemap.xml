@@ -17,6 +17,18 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/pt/talk/gel18/" hreflang="pt"/>
+      <xhtml:link rel="alternate" href="/talk/gel18/" hreflang="en"/>
+    
+      <loc>/pt/talk/gel18/</loc>
+      <lastmod>2017-01-01T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/pt/talk/stock1/" hreflang="pt"/>
       <xhtml:link rel="alternate" href="/talk/stock1/" hreflang="en"/>
     
@@ -29,10 +41,22 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/pt/talk/ufmg/" hreflang="pt"/>
-      <xhtml:link rel="alternate" href="/talk/ufmg/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/pt/talks_antigos/ufmg/" hreflang="pt"/>
+      <xhtml:link rel="alternate" href="/talks_antigos/ufmg/" hreflang="en"/>
     
-      <loc>/pt/talk/ufmg/</loc>
+      <loc>/pt/talks_antigos/ufmg/</loc>
+      <lastmod>2017-01-01T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/pt/talk/iel0279/" hreflang="pt"/>
+      <xhtml:link rel="alternate" href="/talk/iel0279/" hreflang="en"/>
+    
+      <loc>/pt/talk/iel0279/</loc>
       <lastmod>2017-01-01T00:00:00-02:00</lastmod>
     </url>
     
@@ -45,6 +69,18 @@
       <xhtml:link rel="alternate" href="/talk/stock2/" hreflang="en"/>
     
       <loc>/pt/talk/stock2/</loc>
+      <lastmod>2017-01-01T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/pt/talk/enanpoll18/" hreflang="pt"/>
+      <xhtml:link rel="alternate" href="/talk/enanpoll18/" hreflang="en"/>
+    
+      <loc>/pt/talk/enanpoll18/</loc>
       <lastmod>2017-01-01T00:00:00-02:00</lastmod>
     </url>
     
@@ -142,6 +178,19 @@
       <xhtml:link rel="alternate" href="/talk/" hreflang="en"/>
     
       <loc>/pt/talk/</loc>
+      <lastmod>2017-01-01T00:00:00-02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/pt/talks_antigos/" hreflang="pt"/>
+      <xhtml:link rel="alternate" href="/talks_antigos/" hreflang="en"/>
+    
+      <loc>/pt/talks_antigos/</loc>
       <lastmod>2017-01-01T00:00:00-02:00</lastmod>
       <priority>0</priority>
     </url>
