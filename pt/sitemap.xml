@@ -65,10 +65,10 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://oushiro.github.io/pt/talks_antigos/ufmg/" hreflang="pt"/>
-      <xhtml:link rel="alternate" href="https://oushiro.github.io/talks_antigos/ufmg/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://oushiro.github.io/pt/talk/ufmg/" hreflang="pt"/>
+      <xhtml:link rel="alternate" href="https://oushiro.github.io/talk/ufmg/" hreflang="en"/>
     
-      <loc>https://oushiro.github.io/pt/talks_antigos/ufmg/</loc>
+      <loc>https://oushiro.github.io/pt/talk/ufmg/</loc>
       <lastmod>2017-01-01T00:00:00-02:00</lastmod>
     </url>
     
@@ -238,19 +238,6 @@
       <xhtml:link rel="alternate" href="https://oushiro.github.io/talk/" hreflang="en"/>
     
       <loc>https://oushiro.github.io/pt/talk/</loc>
-      <lastmod>2017-01-01T00:00:00-02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://oushiro.github.io/pt/talks_antigos/" hreflang="pt"/>
-      <xhtml:link rel="alternate" href="https://oushiro.github.io/talks_antigos/" hreflang="en"/>
-    
-      <loc>https://oushiro.github.io/pt/talks_antigos/</loc>
       <lastmod>2017-01-01T00:00:00-02:00</lastmod>
       <priority>0</priority>
     </url>
