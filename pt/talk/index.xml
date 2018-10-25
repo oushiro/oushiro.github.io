@@ -2,94 +2,139 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks on Livia Oushiro</title>
-    <link>/pt/talk/</link>
+    <link>https://oushiro.github.io/pt/talk/</link>
     <description>Recent content in Talks on Livia Oushiro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
     <copyright>&amp;copy; Livia Oushiro 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0200</lastBuildDate>
     
-	<atom:link href="/pt/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://oushiro.github.io/pt/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A fala de migrantes nordestinos em São Paulo: atitudes, identidade, mudança</title>
-      <link>/pt/talk/museu/</link>
+      <link>https://oushiro.github.io/pt/talk/museu/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
       
-      <guid>/pt/talk/museu/</guid>
+      <guid>https://oushiro.github.io/pt/talk/museu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conceitos de identidade e métodos para seu estudo</title>
+      <link>https://oushiro.github.io/pt/talk/cidstalk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
+      
+      <guid>https://oushiro.github.io/pt/talk/cidstalk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contato dialetal no estado de São Paulo: a fala de migrantes alagoanos e paraibanos</title>
-      <link>/pt/talk/gel18/</link>
+      <link>https://oushiro.github.io/pt/talk/gel18/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
       
-      <guid>/pt/talk/gel18/</guid>
+      <guid>https://oushiro.github.io/pt/talk/gel18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrasting Age of Arrival and Length of Residence in dialect contact</title>
+      <link>https://oushiro.github.io/pt/talk/nwav47/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
+      
+      <guid>https://oushiro.github.io/pt/talk/nwav47/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dialect contact and acquisition: migrants in São Paulo</title>
-      <link>/pt/talk/stock1/</link>
+      <link>https://oushiro.github.io/pt/talk/stock1/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
       
-      <guid>/pt/talk/stock1/</guid>
+      <guid>https://oushiro.github.io/pt/talk/stock1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introdução à Análise Estatística de Dados Linguísticos</title>
+      <link>https://oushiro.github.io/pt/talk/cidscurso/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
+      
+      <guid>https://oushiro.github.io/pt/talk/cidscurso/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introdução à Estatística para Linguistas</title>
-      <link>/pt/talk/iel0279/</link>
+      <link>https://oushiro.github.io/pt/talk/iel0279/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
       
-      <guid>/pt/talk/iel0279/</guid>
+      <guid>https://oushiro.github.io/pt/talk/iel0279/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New technologies in linguistic studies</title>
-      <link>/pt/talk/stock2/</link>
+      <link>https://oushiro.github.io/pt/talk/stock2/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
       
-      <guid>/pt/talk/stock2/</guid>
+      <guid>https://oushiro.github.io/pt/talk/stock2/</guid>
       <description>Click here to download the material for the workshop.</description>
     </item>
     
     <item>
       <title>Papel das variáveis Idade de Migração e Tempo de Residência para a aquisição dialetal</title>
-      <link>/pt/talk/enanpoll18/</link>
+      <link>https://oushiro.github.io/pt/talk/enanpoll18/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
       
-      <guid>/pt/talk/enanpoll18/</guid>
+      <guid>https://oushiro.github.io/pt/talk/enanpoll18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projeto Processos de Acomodação Dialetal: uma agenda de estudos</title>
-      <link>/pt/talk/nepo/</link>
+      <link>https://oushiro.github.io/pt/talk/nepo/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
       
-      <guid>/pt/talk/nepo/</guid>
+      <guid>https://oushiro.github.io/pt/talk/nepo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Usos da Plataforma R para Processamento de Dados Fonéticos</title>
+      <link>https://oushiro.github.io/pt/talk/escolaprosodia/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
+      
+      <guid>https://oushiro.github.io/pt/talk/escolaprosodia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Usos do ELAN em Pesquisas com Linguagem (IEL/UNICAMP)</title>
-      <link>/pt/talk/elan2/</link>
+      <link>https://oushiro.github.io/pt/talk/elan2/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
       
-      <guid>/pt/talk/elan2/</guid>
+      <guid>https://oushiro.github.io/pt/talk/elan2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Usos do ELAN em Pesquisas com Linguagem (UFSCAR)</title>
+      <link>https://oushiro.github.io/pt/talk/elan3/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
+      
+      <guid>https://oushiro.github.io/pt/talk/elan3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Usos do ELAN em Pesquisas com Linguagem (UNIFESP)</title>
-      <link>/pt/talk/elan/</link>
+      <link>https://oushiro.github.io/pt/talk/elan/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
       
-      <guid>/pt/talk/elan/</guid>
+      <guid>https://oushiro.github.io/pt/talk/elan/</guid>
       <description></description>
     </item>
     
