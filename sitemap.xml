@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-	   	<loc>/en/sitemap.xml</loc>
+	   	<loc>https://oushiro.github.io/en/sitemap.xml</loc>
 		
 	   	<lastmod>2018-01-01T00:00:00+00:00</lastmod>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>/pt/sitemap.xml</loc>
+	   	<loc>https://oushiro.github.io/pt/sitemap.xml</loc>
 		
 	   	<lastmod>2017-01-01T00:00:00-02:00</lastmod>
 		
