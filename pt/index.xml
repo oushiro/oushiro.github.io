@@ -11,6 +11,24 @@
     <atom:link href="/pt/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>A computational approach for modeling the indexical field</title>
+      <link>/pt/talk/lasprl/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
+      
+      <guid>/pt/talk/lasprl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A fala de migrantes internos: uma agenda de estudos</title>
+      <link>/pt/talk/abralinposter/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
+      
+      <guid>/pt/talk/abralinposter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A fala de migrantes nordestinos em São Paulo: atitudes, identidade, mudança</title>
       <link>/pt/talk/museu/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
@@ -83,6 +101,15 @@
     </item>
     
     <item>
+      <title>Introdução ao R para análises estatísticas em Linguística</title>
+      <link>/pt/talk/ufpr/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
+      
+      <guid>/pt/talk/ufpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Introdução à Análise Estatística de Dados Linguísticos</title>
       <link>/pt/talk/cidscurso/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
@@ -101,6 +128,15 @@
     </item>
     
     <item>
+      <title>Introdução à Estatística para Linguistas</title>
+      <link>/pt/talk/abralincurso/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
+      
+      <guid>/pt/talk/abralincurso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>New technologies in linguistic studies</title>
       <link>/pt/talk/stock2/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
@@ -108,42 +144,6 @@
       <guid>/pt/talk/stock2/</guid>
       <description>&lt;p&gt;Click here to download the material for the workshop.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Papel das variáveis Idade de Migração e Tempo de Residência para a aquisição dialetal</title>
-      <link>/pt/talk/enanpoll18/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
-      
-      <guid>/pt/talk/enanpoll18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projeto Processos de Acomodação Dialetal: uma agenda de estudos</title>
-      <link>/pt/talk/nepo/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
-      
-      <guid>/pt/talk/nepo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Usos da Plataforma R para Processamento de Dados Fonéticos</title>
-      <link>/pt/talk/escolaprosodia/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
-      
-      <guid>/pt/talk/escolaprosodia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Usos do ELAN em Pesquisas com Linguagem (IEL/UNICAMP)</title>
-      <link>/pt/talk/elan2/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
-      
-      <guid>/pt/talk/elan2/</guid>
-      <description></description>
     </item>
     
   </channel>

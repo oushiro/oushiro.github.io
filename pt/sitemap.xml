@@ -5,6 +5,30 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/pt/talk/lasprl/" hreflang="pt"/>
+      <xhtml:link rel="alternate" href="/talk/lasprl/" hreflang="en"/>
+    
+      <loc>/pt/talk/lasprl/</loc>
+      <lastmod>2017-01-01T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/pt/talk/abralinposter/" hreflang="pt"/>
+      <xhtml:link rel="alternate" href="/talk/abralinposter/" hreflang="en"/>
+    
+      <loc>/pt/talk/abralinposter/</loc>
+      <lastmod>2017-01-01T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/pt/talk/museu/" hreflang="pt"/>
       <xhtml:link rel="alternate" href="/talk/museu/" hreflang="en"/>
     
@@ -101,6 +125,18 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/pt/talk/ufpr/" hreflang="pt"/>
+      <xhtml:link rel="alternate" href="/talk/ufpr/" hreflang="en"/>
+    
+      <loc>/pt/talk/ufpr/</loc>
+      <lastmod>2017-01-01T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/pt/talk/cidscurso/" hreflang="pt"/>
       <xhtml:link rel="alternate" href="/talk/cidscurso/" hreflang="en"/>
     
@@ -117,6 +153,18 @@
       <xhtml:link rel="alternate" href="/talk/iel0279/" hreflang="en"/>
     
       <loc>/pt/talk/iel0279/</loc>
+      <lastmod>2017-01-01T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/pt/talk/abralincurso/" hreflang="pt"/>
+      <xhtml:link rel="alternate" href="/talk/abralincurso/" hreflang="en"/>
+    
+      <loc>/pt/talk/abralincurso/</loc>
       <lastmod>2017-01-01T00:00:00-02:00</lastmod>
     </url>
     
