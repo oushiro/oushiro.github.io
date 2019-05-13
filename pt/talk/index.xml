@@ -6,11 +6,20 @@
     <description>Recent content in Talks on Livia Oushiro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
-    <copyright>&amp;copy; Livia Oushiro 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0200</lastBuildDate>
+    <copyright>&amp;copy; Livia Oushiro 2019</copyright>
+    <lastBuildDate>Mon, 08 Apr 2019 00:00:00 -0300</lastBuildDate>
     
 	<atom:link href="/pt/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A fala de migrantes internos: considerações iniciais e delineamento de uma agenda de estudos</title>
+      <link>/pt/talk/encsocio/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 -0300</pubDate>
+      
+      <guid>/pt/talk/encsocio/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A computational approach for modeling the indexical field</title>
