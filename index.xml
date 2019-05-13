@@ -6,7 +6,7 @@
     <description>Recent content in Livia Oushiro on Livia Oushiro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Livia Oushiro 2018</copyright>
+    <copyright>&amp;copy; Livia Oushiro 2019</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
@@ -34,6 +34,15 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/publication/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A fala de migrantes internos: considerações iniciais e delineamento de uma agenda de estudos</title>
+      <link>/talk/encsocio/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 -0300</pubDate>
+      
+      <guid>/talk/encsocio/</guid>
       <description></description>
     </item>
     
@@ -134,15 +143,6 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
       
       <guid>/talk/ufmg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Introdução ao R para análises estatísticas em Linguística</title>
-      <link>/talk/ufpr/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
-      
-      <guid>/talk/ufpr/</guid>
       <description></description>
     </item>
     
