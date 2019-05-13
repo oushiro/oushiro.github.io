@@ -6,9 +6,18 @@
     <description>Recent content in Livia Oushiro on Livia Oushiro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
-    <copyright>&amp;copy; Livia Oushiro 2018</copyright>
+    <copyright>&amp;copy; Livia Oushiro 2019</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/pt/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A fala de migrantes internos: considerações iniciais e delineamento de uma agenda de estudos</title>
+      <link>/pt/talk/encsocio/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 -0300</pubDate>
+      
+      <guid>/pt/talk/encsocio/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A computational approach for modeling the indexical field</title>
@@ -135,15 +144,6 @@
       <guid>/pt/talk/stock2/</guid>
       <description>&lt;p&gt;Click here to download the material for the workshop.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Papel das variáveis Idade de Migração e Tempo de Residência para a aquisição dialetal</title>
-      <link>/pt/talk/enanpoll18/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
-      
-      <guid>/pt/talk/enanpoll18/</guid>
-      <description></description>
     </item>
     
   </channel>

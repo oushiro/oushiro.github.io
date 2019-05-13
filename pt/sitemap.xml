@@ -5,6 +5,18 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/pt/talk/encsocio/" hreflang="pt"/>
+      <xhtml:link rel="alternate" href="/talk/encsocio/" hreflang="en"/>
+    
+      <loc>/pt/talk/encsocio/</loc>
+      <lastmod>2019-04-08T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/pt/talk/lasprl/" hreflang="pt"/>
       <xhtml:link rel="alternate" href="/talk/lasprl/" hreflang="en"/>
     
@@ -298,7 +310,7 @@
       <xhtml:link rel="alternate" href="/talk/" hreflang="en"/>
     
       <loc>/pt/talk/</loc>
-      <lastmod>2017-01-01T00:00:00-02:00</lastmod>
+      <lastmod>2019-04-08T00:00:00-03:00</lastmod>
       <priority>0</priority>
     </url>
     
