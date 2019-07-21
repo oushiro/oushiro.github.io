@@ -77,6 +77,18 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/pt/talk/gel19/" hreflang="pt"/>
+      <xhtml:link rel="alternate" href="/talk/gel19/" hreflang="en"/>
+    
+      <loc>/pt/talk/gel19/</loc>
+      <lastmod>2017-01-01T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/pt/talk/gel18/" hreflang="pt"/>
       <xhtml:link rel="alternate" href="/talk/gel18/" hreflang="en"/>
     
@@ -137,6 +149,18 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/pt/talk/gd/" hreflang="pt"/>
+      <xhtml:link rel="alternate" href="/talk/gd/" hreflang="en"/>
+    
+      <loc>/pt/talk/gd/</loc>
+      <lastmod>2017-01-01T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/pt/talk/cidscurso/" hreflang="pt"/>
       <xhtml:link rel="alternate" href="/talk/cidscurso/" hreflang="en"/>
     
@@ -173,6 +197,18 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/pt/talk/icphs/" hreflang="pt"/>
+      <xhtml:link rel="alternate" href="/talk/icphs/" hreflang="en"/>
+    
+      <loc>/pt/talk/icphs/</loc>
+      <lastmod>2017-01-01T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/pt/talk/stock2/" hreflang="pt"/>
       <xhtml:link rel="alternate" href="/talk/stock2/" hreflang="en"/>
     
@@ -185,10 +221,34 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/pt/talk/vconel/" hreflang="pt"/>
+      <xhtml:link rel="alternate" href="/talk/vconel/" hreflang="en"/>
+    
+      <loc>/pt/talk/vconel/</loc>
+      <lastmod>2017-01-01T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/pt/talk/enanpoll18/" hreflang="pt"/>
       <xhtml:link rel="alternate" href="/talk/enanpoll18/" hreflang="en"/>
     
       <loc>/pt/talk/enanpoll18/</loc>
+      <lastmod>2017-01-01T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/pt/talk/fis19/" hreflang="pt"/>
+      <xhtml:link rel="alternate" href="/talk/fis19/" hreflang="en"/>
+    
+      <loc>/pt/talk/fis19/</loc>
       <lastmod>2017-01-01T00:00:00-02:00</lastmod>
     </url>
     
@@ -249,6 +309,18 @@
       <xhtml:link rel="alternate" href="/talk/elan/" hreflang="en"/>
     
       <loc>/pt/talk/elan/</loc>
+      <lastmod>2017-01-01T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/pt/talk/jornadasocio/" hreflang="pt"/>
+      <xhtml:link rel="alternate" href="/talk/jornadasocio/" hreflang="en"/>
+    
+      <loc>/pt/talk/jornadasocio/</loc>
       <lastmod>2017-01-01T00:00:00-02:00</lastmod>
     </url>
     
