@@ -209,6 +209,18 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/pt/talk/peul/" hreflang="pt"/>
+      <xhtml:link rel="alternate" href="/talk/peul/" hreflang="en"/>
+    
+      <loc>/pt/talk/peul/</loc>
+      <lastmod>2017-01-01T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/pt/talk/stock2/" hreflang="pt"/>
       <xhtml:link rel="alternate" href="/talk/stock2/" hreflang="en"/>
     
@@ -261,6 +273,30 @@
       <xhtml:link rel="alternate" href="/talk/nepo/" hreflang="en"/>
     
       <loc>/pt/talk/nepo/</loc>
+      <lastmod>2017-01-01T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/pt/talk/vconelmini/" hreflang="pt"/>
+      <xhtml:link rel="alternate" href="/talk/vconelmini/" hreflang="en"/>
+    
+      <loc>/pt/talk/vconelmini/</loc>
+      <lastmod>2017-01-01T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/pt/talk/nwav48/" hreflang="pt"/>
+      <xhtml:link rel="alternate" href="/talk/nwav48/" hreflang="en"/>
+    
+      <loc>/pt/talk/nwav48/</loc>
       <lastmod>2017-01-01T00:00:00-02:00</lastmod>
     </url>
     
