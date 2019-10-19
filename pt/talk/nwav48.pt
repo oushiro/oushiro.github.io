@@ -1,0 +1,41 @@
++++
+date = 2017-01-01T00:00:00  # Schedule page publish date.
+
+title = "Usage rates and variable rules: what changes in migrants' speech"
+time_start = 2019-05-06T16:00:00
+time_end = 2019-05-06T17:00:00
+abstract = "Ainda que migrantes internos componham, atualmente, grande parte da população das grandes cidades brasileiras, os estudos sociolinguísticos, em sua maior parte, concentram-se sobre a fala de membros tidos como mais “prototípicos” de suas comunidades – falantes que ali nasceram e viveram a maior parte de suas vidas. Entretanto, a análise da fala de migrantes, além de providenciar um quadro mais completo dos usos linguísticos, pode fornecer subsídios para questões linguísticas mais amplas, como a estabilidade da gramática do falante ao longo da vida, fatores propulsores da mudança linguística, e a relação entre a fala individual e da comunidade. A partir de um resumo de uma das primeiras pesquisas sistemáticas sobre a fala de migrantes internos no Brasil – o Projeto “Processos de acomodação dialetal na fala de nordestinos residentes em São Paulo” (FAPESP 2016-04960-7), esta comunicação tem o objetivo de traçar uma agenda de estudos para esse tópico dentro do campo da Sociolinguística Variacionista. O Projeto analisou os padrões de variação na fala de 72 migrantes paraibanos e alagoanos residentes no estado de São Paulo e comparou o papel das variáveis Idade de Migração e Tempo de Residência sobre seis variáveis sociolinguísticas, quatro fonológicas e morfossintáticas, diferenciadoras de variedades regionais e do contínuo rural-urbano: (i) a realização de /r/ em coda silábica (porta); (ii) a realização de /t/ e /d/ antes de \\[i\\] (tia, dia); (iii) a altura da vogal média pretônica /e/ (relógio); (iv) a altura da vogal média pretônica /r/ (romã); (v) a concordância nominal de número (os meninos vs. os menino); e (vi) a negação sentencial (não vi vs. não vi não/vi não). Os resultados mostraram que a idade de migração tem papel preponderante para a aquisição de variantes fonológicas da comunidade anfitriã (quanto mais cedo chegou, maior a tendência de uso da nova variante), mas não teve papel sobre as variáveis morfossintáticas; tempo de residência, por sua vez, correlaciona-se apenas com /r/ em coda. Por outro lado, fica claro que diferentes variáveis sociolinguísticas não passam pelo mesmo processo de acomodação, tampouco cada um dos indivíduos migrantes. Nesse sentido, surgem novas questões que devem ser exploradas em estudos futuros: (i) é possível sistematizar uma tipologia de variáveis sociolinguísticas mais e menos propensas à acomodação dialetal? Se sim, sob quais critérios elas se agrupam? (ii) variáveis que compreendem variantes inexistentes do dialeto de origem são mais fácil- ou mais dificilmente adquiridas na nova comunidade (p.ex., a realização tepe e retroflexa de /r/ em coda para nordestinos) em comparação com variáveis que compreendem variantes existentes, ainda que menos frequentes (como a realização palatalizada de /t/ e /d/ antes de [i])? (iii) no contato entre dois dialetos A e B, deve-se esperar que a acomodação ao dialeto A por um falante do dialeto B seja semelhante ao da acomodação ao dialeto B por um falante de A (p.ex., um paulista se acomodando ao falar paraibano em comparação com um paraibano de acomodando ao falar paulista)? (iv) é preferível analisar a acomodação dialetal da perspectiva da aquisição de novas variantes ou da perda de variantes do dialeto de origem? (v) quais variáveis sociais (para além de sexo, idade e grau de escolaridade dos falantes) têm maior preponderância na acomodação dialetal? (vi) qual é o papel das variáveis atitudes linguísticas, identidade(s) do falante e sua rede social, e como operacionalizá-las dentro da metodologia de coleta de dados? (vi) além do aumento ou da diminuição da proporção de emprego de certas variantes, os migrantes também podem adquirir padrões mais abstratos de variação, como a proporção relativa de uso, em termos de favorecimento e desfavorecimento de regras variáveis, em determinados contextos linguísticos? Esta comunicação tem o objetivo de esboçar caminhos de respostas a essas questões, por meio do estabelecimento de uma agenda de estudos. "
+abstract_short = ""
+event = "ABRALIN50/Sessão de Pôsteres"
+event_url = "https://www.abralin.org/abralin50/programacao-geral/"
+location = "Maceió-AL, Brazil"
+
+# Is this a selected talk? (true/false)
+selected = false
+
+# Projects (optional).
+#   Associate this talk with one or more of your projects.
+#   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
+#projects = ["deep-learning"]
+
+# Links (optional).
+url_pdf = "https://zenodo.org/record/2658839#.XNjA5aR7lPa"
+url_slides = ""
+url_video = ""
+url_code = ""
+
+# Does the content use math formatting?
+math = true
+
+# Does the content use source code highlighting?
+highlight = true
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+image = "headers/coloredlines-wide2.jpg"
+caption = "Recent and Upcoming Talks/Workshops"
+
++++
+
+
