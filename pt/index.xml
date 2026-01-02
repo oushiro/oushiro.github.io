@@ -1,147 +1,392 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Livia Oushiro on Livia Oushiro</title>
-    <link>/pt/</link>
-    <description>Recent content in Livia Oushiro on Livia Oushiro</description>
+    <title>Talks on Livia Oushiro</title>
+    <link>https://oushiro.github.io/talk/</link>
+    <description>Recent content in Talks on Livia Oushiro</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt</language>
-    <copyright>&amp;copy; Livia Oushiro 2019</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/pt/" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <copyright>&amp;copy; Livia Oushiro 2020</copyright>
+    <lastBuildDate>Thu, 06 Nov 2025 00:00:00 -0300</lastBuildDate>
+    
+	<atom:link href="https://oushiro.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Idiolectal variation: is migrants’ speech more variable than that of non-migrants?</title>
+      <link>https://oushiro.github.io/talk/2025-nwav53/</link>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://oushiro.github.io/talk/2025-nwav53/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dialectal contact in Brazilian Portuguese: patterns and gaps</title>
+      <link>https://oushiro.github.io/talk/2024-hls/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 -0300</pubDate>
+      
+      <guid>https://oushiro.github.io/talk/2024-hls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Desafios para a análise sociofonética do contato dialetal</title>
+      <link>https://oushiro.github.io/talk/2023-abralin13/</link>
+      <pubDate>Sun, 29 Oct 2023 00:00:00 -0300</pubDate>
+      
+      <guid>https://oushiro.github.io/talk/2023-abralin13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The social embedding of lectal coherence among mobile speakers</title>
+      <link>https://oushiro.github.io/talk/2023-nwav51/</link>
+      <pubDate>Sat, 14 Oct 2023 00:00:00 -0300</pubDate>
+      
+      <guid>https://oushiro.github.io/talk/2023-nwav51/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-lexical filled pauses in eh... Brazilian Portuguese dialectal contact</title>
+      <link>https://oushiro.github.io/talk/2022-nwav50/</link>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 -0300</pubDate>
+      
+      <guid>https://oushiro.github.io/talk/2022-nwav50/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internal migrants in Brazil: a few open questions in the study of dialect contact</title>
+      <link>https://oushiro.github.io/talk/2022-gurt/</link>
+      <pubDate>Fri, 11 Mar 2022 00:00:00 -0300</pubDate>
+      
+      <guid>https://oushiro.github.io/talk/2022-gurt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dialect contact: Results from the Accommodation Project and a research agenda</title>
+      <link>https://oushiro.github.io/talk/2021-osutalk/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 -0300</pubDate>
+      
+      <guid>https://oushiro.github.io/talk/2021-osutalk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A indissociabilidade entre questões, teoria e método</title>
+      <link>https://oushiro.github.io/talk/2021-viel/</link>
+      <pubDate>Thu, 04 Nov 2021 00:00:00 -0300</pubDate>
+      
+      <guid>https://oushiro.github.io/talk/2021-viel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Converging to local and supralocal norms: stylistic variation in migrants’ speech</title>
+      <link>https://oushiro.github.io/talk/2021-nwav49/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 -0300</pubDate>
+      
+      <guid>https://oushiro.github.io/talk/2021-nwav49/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coleta de dados para pesquisas sociolinguísticas (em tempo de pandemia)</title>
+      <link>https://oushiro.github.io/talk/2020-xsocio/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 -0300</pubDate>
+      
+      <guid>https://oushiro.github.io/talk/2020-xsocio/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A fala de migrantes internos: considerações iniciais e delineamento de uma agenda de estudos</title>
-      <link>/pt/talk/encsocio/</link>
+      <link>https://oushiro.github.io/talk/encsocio/</link>
       <pubDate>Mon, 08 Apr 2019 00:00:00 -0300</pubDate>
       
-      <guid>/pt/talk/encsocio/</guid>
+      <guid>https://oushiro.github.io/talk/encsocio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A computational approach for modeling the indexical field</title>
-      <link>/pt/talk/lasprl/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
+      <link>https://oushiro.github.io/talk/lasprl/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
       
-      <guid>/pt/talk/lasprl/</guid>
+      <guid>https://oushiro.github.io/talk/lasprl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A fala de migrantes internos: uma agenda de estudos</title>
-      <link>/pt/talk/abralinposter/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
+      <link>https://oushiro.github.io/talk/abralinposter/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
       
-      <guid>/pt/talk/abralinposter/</guid>
+      <guid>https://oushiro.github.io/talk/abralinposter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A fala de migrantes nordestinos em São Paulo: atitudes, identidade, mudança</title>
-      <link>/pt/talk/museu/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
+      <link>https://oushiro.github.io/talk/museu/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
       
-      <guid>/pt/talk/museu/</guid>
+      <guid>https://oushiro.github.io/talk/museu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A importância dos estudos de avaliação e percepções sociolinguísticas</title>
+      <link>https://oushiro.github.io/talk/2020-vfelcetalk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
+      
+      <guid>https://oushiro.github.io/talk/2020-vfelcetalk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Avaliações e percepções sociolinguísticas</title>
+      <link>https://oushiro.github.io/talk/ielingcurso/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
+      
+      <guid>https://oushiro.github.io/talk/ielingcurso/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conceitos de identidade e métodos para seu estudo</title>
-      <link>/pt/talk/cidstalk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
+      <link>https://oushiro.github.io/talk/cidstalk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
       
-      <guid>/pt/talk/cidstalk/</guid>
+      <guid>https://oushiro.github.io/talk/cidstalk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conceitos de identidade e métodos para seu estudo</title>
-      <link>/pt/talk/enpoletalk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
+      <link>https://oushiro.github.io/talk/enpoletalk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
       
-      <guid>/pt/talk/enpoletalk/</guid>
+      <guid>https://oushiro.github.io/talk/enpoletalk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contato dialetal e identidade(s)</title>
-      <link>/pt/talk/gel19/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
+      <link>https://oushiro.github.io/talk/gel19/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
       
-      <guid>/pt/talk/gel19/</guid>
+      <guid>https://oushiro.github.io/talk/gel19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contato dialetal no estado de São Paulo: a fala de migrantes alagoanos e paraibanos</title>
-      <link>/pt/talk/gel18/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
+      <link>https://oushiro.github.io/talk/gel18/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
       
-      <guid>/pt/talk/gel18/</guid>
+      <guid>https://oushiro.github.io/talk/gel18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contrasting Age of Arrival and Length of Residence in dialect contact</title>
-      <link>/pt/talk/nwav47/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
+      <link>https://oushiro.github.io/talk/nwav47/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
       
-      <guid>/pt/talk/nwav47/</guid>
+      <guid>https://oushiro.github.io/talk/nwav47/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dialect contact and acquisition: migrants in São Paulo</title>
-      <link>/pt/talk/stock1/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
+      <link>https://oushiro.github.io/talk/stock1/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
       
-      <guid>/pt/talk/stock1/</guid>
+      <guid>https://oushiro.github.io/talk/stock1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to Statistics for Linguists</title>
+      <link>https://oushiro.github.io/talk/abralincurso/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
+      
+      <guid>https://oushiro.github.io/talk/abralincurso/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introdução ao R para Linguistas</title>
-      <link>/pt/talk/ufmg/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
+      <link>https://oushiro.github.io/talk/ufmg/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
       
-      <guid>/pt/talk/ufmg/</guid>
+      <guid>https://oushiro.github.io/talk/ufmg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introdução ao R para análises estatísticas em Linguística</title>
-      <link>/pt/talk/ufpr/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
+      <link>https://oushiro.github.io/talk/ufpr/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
       
-      <guid>/pt/talk/ufpr/</guid>
+      <guid>https://oushiro.github.io/talk/ufpr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introdução ao R para o estudo da língua em uso</title>
-      <link>/pt/talk/gd/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
+      <link>https://oushiro.github.io/talk/gd/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
       
-      <guid>/pt/talk/gd/</guid>
+      <guid>https://oushiro.github.io/talk/gd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introdução à Análise Estatística de Dados Linguísticos</title>
-      <link>/pt/talk/cidscurso/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
+      <link>https://oushiro.github.io/talk/cidscurso/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
       
-      <guid>/pt/talk/cidscurso/</guid>
+      <guid>https://oushiro.github.io/talk/cidscurso/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introdução à Estatística para Linguistas</title>
-      <link>/pt/talk/iel0279/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
+      <link>https://oushiro.github.io/talk/iel0279/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
       
-      <guid>/pt/talk/iel0279/</guid>
+      <guid>https://oushiro.github.io/talk/iel0279/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linguistic uniformity in the speech of Brazilian internal migrants in a dialect contact situation</title>
+      <link>https://oushiro.github.io/talk/icphs/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
+      
+      <guid>https://oushiro.github.io/talk/icphs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linguística no momento atual</title>
+      <link>https://oushiro.github.io/talk/enapol2020talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
+      
+      <guid>https://oushiro.github.io/talk/enapol2020talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Migrantes internos e contato dialetal</title>
+      <link>https://oushiro.github.io/talk/peul/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
+      
+      <guid>https://oushiro.github.io/talk/peul/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New technologies in linguistic studies</title>
+      <link>https://oushiro.github.io/talk/stock2/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
+      
+      <guid>https://oushiro.github.io/talk/stock2/</guid>
+      <description>Click here to download the material for the workshop.</description>
+    </item>
+    
+    <item>
+      <title>Novas ondas da sociolinguística variacionista</title>
+      <link>https://oushiro.github.io/talk/vconel/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
+      
+      <guid>https://oushiro.github.io/talk/vconel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Papel das variáveis Idade de Migração e Tempo de Residência para a aquisição dialetal</title>
+      <link>https://oushiro.github.io/talk/enanpoll18/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
+      
+      <guid>https://oushiro.github.io/talk/enanpoll18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Percepções e avaliações sociolinguísticas: novos métodos e questões</title>
+      <link>https://oushiro.github.io/talk/fis19/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
+      
+      <guid>https://oushiro.github.io/talk/fis19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projeto Processos de Acomodação Dialetal: uma agenda de estudos</title>
+      <link>https://oushiro.github.io/talk/nepo/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
+      
+      <guid>https://oushiro.github.io/talk/nepo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Usage rates and variable rules: what changes in migrants&#39; speech</title>
+      <link>https://oushiro.github.io/talk/nwav48/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
+      
+      <guid>https://oushiro.github.io/talk/nwav48/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Usos da Plataforma R para Processamento de Dados Fonéticos</title>
+      <link>https://oushiro.github.io/talk/escolaprosodia/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
+      
+      <guid>https://oushiro.github.io/talk/escolaprosodia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Usos do ELAN em Pesquisas com Linguagem (IEL/UNICAMP)</title>
+      <link>https://oushiro.github.io/talk/elan2/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
+      
+      <guid>https://oushiro.github.io/talk/elan2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Usos do ELAN em Pesquisas com Linguagem (UFSCAR)</title>
+      <link>https://oushiro.github.io/talk/elan3/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
+      
+      <guid>https://oushiro.github.io/talk/elan3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Usos do ELAN em Pesquisas com Linguagem (UNIFESP)</title>
+      <link>https://oushiro.github.io/talk/elan/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
+      
+      <guid>https://oushiro.github.io/talk/elan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variação e mudança nas línguas de sinais e línguas orais</title>
+      <link>https://oushiro.github.io/talk/jornadasocio/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
+      
+      <guid>https://oushiro.github.io/talk/jornadasocio/</guid>
       <description></description>
     </item>
     
